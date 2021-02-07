@@ -16,7 +16,7 @@ let App = () => {
   return (
     <>
       <Text style={styles.welcome}>
-        Welcome to CodePush 28!
+        Welcome to CodePush 40
   </Text>
     </>
 
